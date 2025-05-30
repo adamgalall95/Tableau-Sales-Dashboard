@@ -1,10 +1,10 @@
 # Tableau User Story | Sales Performance
 ## Intorduction
-  This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
+  This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives analyse sales performance and customers. 
 
 ## Sales Dashboard | Requirements
   ### Dashboard Purpose
-    The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
+    The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyse year-over-year sales performance and understand sales trends.
   
   ### Key Requirements
     KPI Overview
@@ -13,7 +13,7 @@
   ### 1- Sales Trends
      – Present the data for each KPI on a monthly basis for both the current year and the previous year.
   
-     – Identify months with highest and lowest sales and make them easy to recognize.
+     – Identify months with highest and lowest sales and make them easy to recognise.
   
   ### 2- Product Subcategory Comparison
      – Compare sales performance by different product subcategories for the current year and the previous year.
@@ -38,7 +38,7 @@
   ### 1- Customer Trends
      – Present the data for each KPI on a monthly basis for both the current year and the previous year.
     
-     – Identify months with highest and lowest sales and make them easy to recognize.
+     – Identify months with highest and lowest sales and make them easy to recognise.
   
   ### 2- Customer Distribution by Number of Orders
     Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
@@ -49,12 +49,12 @@
      – Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
 ## Design & Interactivity Requirements
-  Dashboard Dynamic
-   – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
+  ### Dashboard Dynamic
+     – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
+    
+     – Provide users with the ability to navigate between the dashboards easily.
+    
+     – Make the charts and graphs interactive, enabling users to filter data using the charts.
   
-   – Provide users with the ability to navigate between the dashboards easily.
-  
-   – Make the charts and graphs interactive, enabling users to filter data using the charts.
-  
-  Data Filters
-  Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+  ### Data Filters
+    Allow users to filter data by product information like category and subcategory and by location information like region, state and city.

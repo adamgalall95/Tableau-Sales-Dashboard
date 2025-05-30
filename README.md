@@ -9,17 +9,17 @@
   ### Requirements Overview
   Display a summary of total sales, profits and quantity for the current year and the previous year.
   
-  ### 1- Sales Trends
+  ### a - Sales Trends
    – Present the data for each KPI on a monthly basis for both the current year and the previous year.
 
    – Identify months with highest and lowest sales and make them easy to recognise.
   
-  ### 2- Product Subcategory Comparison
+  ### b - Product Subcategory Comparison
    – Compare sales performance by different product subcategories for the current year and the previous year.
 
    – Include a comparison of sales with profit.
   
-  ### 3- Weekly Trends for Sales & Profit
+  ### c - Weekly Trends for Sales & Profit
    – Present weekly sales and profit data for the current year.
 
    – Display the average weekly values.
@@ -37,15 +37,15 @@
   ### Requirements Overview
   Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
   
-  ### 1- Customer Trends
+  ### a - Customer Trends
    – Present the data for each KPI on a monthly basis for both the current year and the previous year.
   
    – Identify months with highest and lowest sales and make them easy to recognise.
   
-  ### 2- Customer Distribution by Number of Orders
+  ### b - Customer Distribution by Number of Orders
   Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
   
-  ### 3- Top 10 Customers By Profit
+  ### c - Top 10 Customers By Profit
    – Present the top 10 customers who have generated the highest profits for the company.
   
    – Show additional information like rank, number of orders, current sales, current profit and the last order date.

@@ -1,6 +1,6 @@
 # Tableau Project | Sales Performance
 ## Intorduction
-  This section outlines the general specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives analyse sales performance and customers. Detailed project requirnments are provided in ProjectReq.md
+  This section outlines the general specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives analyse sales performance and customers. Detailed project requirnments are provided in ### Project Details Folder
 
 ## 1- Sales Dashboard | Requirements
   ### Dashboard Purpose

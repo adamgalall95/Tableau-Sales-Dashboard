@@ -16,15 +16,3 @@
   
   ### Requirements Overview
   Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
-
-
-
-## Design & Interactivity Requirements
-  ### Dashboard Dynamic
-  The Dashboard should allow users to navigate between dashboards and choose historical periods for analyses
-  
-  ### Data Filters
-  Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
-
-
-##

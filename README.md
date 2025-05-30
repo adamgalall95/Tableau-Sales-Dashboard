@@ -1,4 +1,4 @@
-# Tableau Project | Sales Performance
+# Tableau Project | [Sales Performance](https://public.tableau.com/app/profile/ahmed.galall8742/viz/Book1_17450556185910/SalesDashboard?publish=yes)
 ## Intorduction
   This section outlines the general specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives analyse sales performance and customers. Detailed project requirnments are provided in Project Details folder
 
@@ -17,4 +17,4 @@
   ### Requirements Overview
   Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
 
-## Link to Tableau Dashbaord: https://public.tableau.com/app/profile/ahmed.galall8742/viz/Book1_17450556185910/SalesDashboard?publish=yes
+## [Click to go to Tableau Dashbaord] (https://public.tableau.com/app/profile/ahmed.galall8742/viz/Book1_17450556185910/SalesDashboard?publish=yes)
